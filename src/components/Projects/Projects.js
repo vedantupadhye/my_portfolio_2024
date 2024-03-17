@@ -25,7 +25,7 @@ function Projects() {
               title="MyBlog"
               description="BlogPost - A blogging website with user authentication and Google sign in methods which allows user to create and publish blogs for others
               "
-              ghLink="https://github.com/soumyajit4419/Chatify"
+              ghLink="https://github.com/vedantupadhye/fullstack_blog"
             />
           </Col>
 
@@ -37,7 +37,7 @@ function Projects() {
               description="
               Admin Dashboard - A admin dashboard for an e-commerce website that allows admin and other users to enlist their products on the website through a admin pannel with user authentication and Google login options.
               "
-
+              ghLink="https://github.com/vedantupadhye/next_adminpanel"
             />
           </Col>
 
@@ -47,7 +47,7 @@ function Projects() {
               isBlog={false}
               title="Dropbox clone"
               description=" Dropbox - A cloud platform that imitates the working of dropbox includeing features like storing images/vidoes updating it and also sharing it"
-        
+              ghLink="https://github.com/vedantupadhye/dropbox"
             />
           </Col>
         </Row>

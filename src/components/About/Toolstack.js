@@ -5,7 +5,7 @@ import {
   SiPostman,
   SiSlack,
   SiVercel,
-  SiMacos,
+
   SiTailwindcss,
 } from "react-icons/si";
 
